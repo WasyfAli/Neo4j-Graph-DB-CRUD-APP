@@ -10,3 +10,9 @@ Simple record.json file is given to import grapgh database to your neo4j client
                 #npm install
                 #nodemon
 3) You app will start on port:3000
+
+
+
+.......SCREEENSCHOT
+-
+![Screenshot from 2020-09-05 03-14-36](https://user-images.githubusercontent.com/46135061/92287654-0338b600-ef28-11ea-8a65-7520935bd341.png)
