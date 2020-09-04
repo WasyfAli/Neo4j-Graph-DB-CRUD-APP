@@ -20,7 +20,7 @@ app.use(express.static(path.join(__dirname, "public")));
 //NEO4J driver initialize
 var driver = neo4j.driver(
   "bolt://localhost",
-  neo4j.auth.basic("neo4j", "redhat")
+  neo4j.auth.basic("YOUR_DB_NAME", "YOUR_DB_PASSWORD") //generally dbname is neo4j
 );
 var session = driver.session();
 
