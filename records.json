@@ -1,0 +1,243 @@
+﻿[
+  {
+    "n": {
+"identity": 0,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "John"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 1,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Sally"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 2,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Steve",
+"age": 32
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 3,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Mike"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Shawn",
+"age": 20
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 5,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Dwayne",
+"age": 35
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 6,
+"labels": [
+        "Location"
+      ],
+"properties": {
+"city": "Miami",
+"state": "FL"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 7,
+"labels": [
+        "Location"
+      ],
+"properties": {
+"city": "Boston",
+"state": "MS"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 8,
+"labels": [
+        "Location"
+      ],
+"properties": {
+"city": "Portland",
+"state": "MS"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 9,
+"labels": [
+        "Location"
+      ],
+"properties": {
+"city": "Sanfrancisco",
+"state": "CL"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 10,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Matt"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 11,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Nathan"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 12,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Carl"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 13,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Smith"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 14,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Naomi"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 15,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Wanda"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 16,
+"labels": [
+        "Location"
+      ],
+"properties": {
+"city": "Detroit",
+"state": "MI"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 17,
+"labels": [
+        "Location"
+      ],
+"properties": {
+"city": "",
+"state": ""
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 18,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Wasif"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 19,
+"labels": [
+        "Location"
+      ],
+"properties": {
+"city": "Bhopal",
+"state": "India"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 20,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Alam"
+      }
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "name": "socialclient",
+  "version": "1.0.0",
+  "description": "Project with graph databse using neo4j Node express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "nodemon app.js"
+  },
+  "author": "WasyfAli",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "neo4j-driver": "^4.1.1",
+    "nodemon": "^2.0.4"
+  }
+}
