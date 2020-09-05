@@ -5,6 +5,7 @@ Simple record.json file is given to import grapgh database to your neo4j client
 
 
 >>>>>>>>STEPS TO START PROJECT<<<<<<<<<<<<<<<<<<<
+INstall Neo4j in you system from this link https://neo4j.com/download-center/
 1) In app.js change database name and password. (IN NEO4J DRIVER INITIALIZATION)
 2) RUN  COMMANDS:
                 #npm install
